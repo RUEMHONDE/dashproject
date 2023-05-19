@@ -1,0 +1,39 @@
+header{
+    width: 84vw;
+    height: 72px;
+    background-color: aquamarine;
+    box-shadow: 0px 2px 2px rgba(red, green, blue, alpha);
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-input{
+    width: 260px;
+    height: 35px;
+    border-radius: 54px;
+    background: white;
+    border: none;
+    margin-top: 1.5%;
+    margin-left: 3%;
+}
+.notifications{
+    height: 16px;
+    width: 16px;
+    margin-top: 20px;
+}
+.user-details{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding: 10px;
+}
+.dp{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.user-name{
+    margin-top: 18px;
+}

@@ -1,0 +1,15 @@
+.login-container{
+    width: 600px;
+    height: 280px;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 205px;
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-evenly;
+}
+.books{
+    height: 120px;
+    width: 120px;
+}

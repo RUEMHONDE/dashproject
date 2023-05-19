@@ -1,0 +1,11 @@
+.welcome-container{
+    padding: 12px;
+    width: 720px;
+    height: 225px;
+    background-color: lightgreen;
+    border-radius: 8px;
+}
+
+.welcome-info{
+    padding: 20px;
+}

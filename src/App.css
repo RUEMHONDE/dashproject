@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.app-container{
+    display: flex;
+    width: 100%;
+}
+.sidenav-container{
+    width: 15%;
+}
